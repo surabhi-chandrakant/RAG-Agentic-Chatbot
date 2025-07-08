@@ -2,6 +2,12 @@
 
 An intelligent Retrieval-Augmented Generation (RAG) system built with agentic workflow architecture. This chatbot can process multiple document types, create semantic embeddings, and provide intelligent responses based on your uploaded documents.
 
+## 🌐 Live Demo
+
+**Try the app live**: [https://huggingface.co/spaces/surabhic/Agentic_RAG_Chatbot](https://huggingface.co/spaces/surabhic/Agentic_RAG_Chatbot)
+
+Upload your documents and start chatting with them instantly!
+
 ## 🚀 Features
 
 - **Multi-format Document Support**: PDF, DOCX, PPTX, CSV, TXT, and Markdown files
@@ -204,9 +210,7 @@ RAG-Agentic-Chatbot/
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Create a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
