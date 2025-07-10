@@ -56,13 +56,15 @@ The system consists of four main agents:
    
    Create a `.env` file in the root directory:
    ```env
-   GOOGLE_API_KEY=your_google_api_key_here
+   GOOGLE_API_KEY=your_google_api_key_here  
    ```
    
    Or set the environment variable directly:
    ```bash
    export GOOGLE_API_KEY="your_google_api_key_here"
+   # OR On Windows (PowerShell): $env:GOOGLE_API_KEY="YOUR_API_KEY_HERE" 
    ```
+I recommend to use above method for fine integration.
 
 5. **Get Google API Key**
    - Go to [Google AI Studio](https://makersuite.google.com/app/apikey)
